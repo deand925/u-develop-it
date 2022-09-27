@@ -1,2 +1,6 @@
 DROP DATABASE IF EXISTS election;
-y
+
+CREATE DATABASE election;
+
+USE election;
+
